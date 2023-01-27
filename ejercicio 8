@@ -1,3 +1,5 @@
+//Leer 10 números enteros, almacenarlos en un arreglo y determinar cuántos números negativos hay.
+
 using System;
 
 namespace Ejercicio_17
